@@ -30,7 +30,7 @@ install(
 
 install(
     DIRECTORY "single_header/"
-    DESTINATION "${include_install_dir}"
+    DESTINATION "${include_install_dir}/fakeit"
 )
 
 install(
